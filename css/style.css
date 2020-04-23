@@ -569,3 +569,8 @@ button:focus,
     text-align : center;
     top        : 65%;
     }
+.col-md-2{
+	float: left;
+	width: 65px;
+	height: 50px;
+}
